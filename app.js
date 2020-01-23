@@ -2,7 +2,7 @@
 
 //return the sum of 2 numbers
 function sum(a, b) {
-  return;
+  return a + b;
 }
 
 
